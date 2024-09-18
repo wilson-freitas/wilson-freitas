@@ -1,5 +1,4 @@
 - 👋 Hi, I'm @wilson-freitas
-
 - ⚙️ I'm a Data Analyst Intern at Seazone
 - 🌱 Currently developing my skills in the data area
 - 📫 How to reach me:
