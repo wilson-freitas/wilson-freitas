@@ -1,4 +1,11 @@
-## Hi there 👋
+# 👋 Hi, I'm @wilson-freitas
+
+- ⚙️ I'm a Data Analyst Intern at Seazone
+- 🌱 Currently developing my skills in the data area
+- 📫 How to reach me:
+  - [LinkedIn](https://br.linkedin.com/in/wilsonfreitas01)
+  - E-mail: wjmf@cin.ufpe.br
+- ⚡ Fun fact: I love surfing, hiking, and being surrounded by animals and nature.
 
 <!--
 **wilson-freitas/wilson-freitas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
