@@ -1,6 +1,6 @@
 - 👋 Hi, I'm @wilson-freitas
 - ⚙️ I'm a Data Analyst Intern at Seazone
-- 🌱 Currently developing my skills in the data area
+- 🌱 Currently developing my data skills
 - 📫 How to reach me:
   - LinkedIn: https://br.linkedin.com/in/wilsonfreitas01
   - E-mail: wjmf@cin.ufpe.br
