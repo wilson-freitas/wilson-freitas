@@ -1,6 +1,6 @@
-- 👋 Hi, I'm @wilson-freitas
-- ⚙️ I'm a Data Analyst Intern at Seazone
-- 🌱 Currently developing my data skills
+- 👋 Hi, I'm @wilson-freitas.
+- ⚙️ I'm a Data Analyst Intern at Visagio.
+- 🌱 Currently developing my data skills, looking foward to create data solutions that empower business ant it's processes.
 - 📫 How to reach me:
   - LinkedIn: https://br.linkedin.com/in/wilsonfreitas01
   - E-mail: wjmf@cin.ufpe.br
